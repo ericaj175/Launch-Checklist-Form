@@ -58,7 +58,7 @@ window.addEventListener("load", function(event) {
         cargoStatus.innerHTML = "there is too much mass for the shuttle to take off"
         launchStatus.style.color = "#ff0000"
          launchStatus.innerHTML = "Shuttle not ready to Launch"
-      
+      //
    
 
    }
